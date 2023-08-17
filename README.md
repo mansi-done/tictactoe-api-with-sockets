@@ -1,9 +1,9 @@
 # Scalable Tic Tac Toe API
-This is an API by which we can play TicTacToe for any N x N size board.
+Play TicTacToe for any N x N size board.
 
 ### Complexity
 The time complexity for each move is : **O(1)**
-The overall spae complexity of each game : is **O(N)**
+The overall space complexity of each game : is **O(N)**
 
 The API is hosted at: https://tictactoe-game.up.railway.app/
 
