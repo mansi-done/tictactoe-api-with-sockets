@@ -5,8 +5,6 @@ Play TicTacToe for any N x N size board.
 The time complexity for each move is : **O(1)**
 The overall space complexity of each game : is **O(N)**
 
-The API is hosted at: https://tictactoe-game.up.railway.app/
-
 #### To play use the following endpoints:
 ### Endpoints
 1. */start* :  Endpoint to start a new game, returns a game with gameId and more game information, the gameId is used in turn to play the game further.
